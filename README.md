@@ -66,3 +66,6 @@ Let me know if I forgot anyone of course.
 * Changed API
 	* Encrypt/Decrypt are now Encode/Decode
 	* HashID is now constructed from HashIDData containing alphabet, salt and minimum length
+
+2019/06/19
+* 使用场景:加密一组数字
